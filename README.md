@@ -1,15 +1,13 @@
-# Dustbowl RP
-- discord : https://discord.gg/dustbowlrp
-- github : https://github.com/griseldab/
-
 # Female Nudie Ped for RedM (18+)
-- mortimersays#8065
+### Credits
+- Creator [griseldab](https://github.com/griseldab/)
+  - Discord: mortimersays#8065
 
-# Dependancies
+### Dependencies 
 - none, should work on all frameworks
 
-# Installation
+### Installation
 - add db-femped to your resources folder
 
-# Starting the resource
-- if not placed in a folder that is already ensured, add the following to your server.cfg file : ensure db-femped
+### Starting the resource
+- add `ensure db-femped` to your resource startup list
